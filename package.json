@@ -5,11 +5,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/frida/gumjs-timers",
-  "bugs": "https://github.com/frida/gumjs-timers/issues",
+  "homepage": "https://github.com/frida-packages/gumjs-timers",
+  "bugs": "https://github.com/frida-packages/gumjs-timers/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-timers.git"
+    "url": "https://github.com/frida-packages/gumjs-timers.git"
   },
   "contributors": [
     "Colton Brown <coltonTB@me.com>",
